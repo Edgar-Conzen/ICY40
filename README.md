@@ -4,19 +4,22 @@
   <img src="/Doc/ICY40_board_fully_assembled.jpg" width="1000" />
 </p>
 
-The ICY40 board is equally suited for absolute beginners and ambitious hardware developers. It covers complexities ranging from
-simple combinational pushbutton-to-LED circuits to full SoCs (system on chip) with the EC16 soft processor core.
+The ICY40 board is equally suited for absolute beginners and ambitious enthusiasts. It covers complexities in the range from
+simple combinational pushbutton-to-LED circuits to full blown SoCs (system on chip) with for example the EC16 soft processor core.
 
-Consisting of extremely sensitive components and intended to be a  predominantly self-contained teaching tool with ample buttons, 
-switches, LEDs, a tricolor LED, a 7-segment and an OLED graphic display, the ICY40 is completely housed and has only two external interfaces: 
-- a USB port that provides power, design data and communication
-- an 8-bit PMOD connector for hardware extensions
+The board is predominantly designed as a self-contained teaching tool, with its ample buttons, switches, LEDs, a tricolor LED,
+a 7-segment and an OLED graphic display. All the sensitive components are protected by a case since the target audience is not (only) 
+the soldering iron wielding hardware wizzard in his ESD-proof workplace but everyone with a computer and a desktop.
+
+There are only two external electrical interfaces: 
+- a USB port that provides power, the programming interface and a communication channel (COM-Port)
+- an 8-bit PMOD connector if hardware extensions are desired
 <p float="right">
   <img src="/Doc/ICY40_in_housing.jpg" width="800" />
 </p>
 
-The EC16 soft processor core can be programmed using a text editor like Notepad++, the EC16ASM.PY Assembler, 
-a terminal program like Tera Term and the EC16MON monitor program. 
+The EC16 soft processor core is free and open source just as the assembler EC16ASM.PY and the monitor program EC16MON . Programs can
+be written with a text editor like Notepad++ and uploaded with a terminal program like Tera Term.
 
 <p float="left">
   <img src="/Doc/ICY40_EC16_writes_text_on_display.jpg" width="800" /> 
