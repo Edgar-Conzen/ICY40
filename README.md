@@ -1,4 +1,4 @@
-# ICY40 - An FPGA learning board based on the Lattice ICE40UP5K 
+# ICY40 - Lattice ICE40UP5K FPGA learning board
 
 <p float="left">
   <img src="/Doc/ICY40_board_fully_assembled.jpg" width="1000" />
