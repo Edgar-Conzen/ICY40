@@ -8,7 +8,7 @@ The ICY40 board is equally suited for absolute beginners and ambitious hardware 
 simple combinational pushbutton-to-LED circuits to full SoCs (system on chip) with the EC16 soft processor core.
 
 Consisting of extremely sensitive components and intended to be a teaching tool, the ICY40 is designed to be predominantly self-contained.
-Besides buttons, switches, LEDs, a tricolor LED, 7-segment and OLED graphic displays there are only two external interfaces: 
+Besides buttons, switches, LEDs, a tricolor LED, a 7-segment and an OLED graphic display there are only two external interfaces: 
 - a USB port that provides power, design data and communication
 - an 8-bit PMOD connector for hardware extensions
 <p float="right">
