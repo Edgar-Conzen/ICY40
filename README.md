@@ -21,7 +21,7 @@ There are only two external electrical interfaces:
 The EC16 soft processor core is free and open source just as the assembler EC16ASM.PY and the simple monitor program EC16MON.
 Assembler programs can be written with a text editor like Notepad++ and uploaded with a terminal program like Tera Term.
 
-The processor currently runs at 20MHz, uses only about 20% of the logic ressources and comes with 512 words boot ram and 16K program/data memory.
+The processor currently runs at 20MHz, uses only about 20% of the logic ressources and comes with 512 words of boot ram and 16K of program/data memory.
 Included are a Fixed Asynchronous Receiver Transmitter (115.200 Baud 8N1), an I2C master (100/400/1000 KHz) for the OLED and access to all
 display and control elements. Of course everything is changeable in the VHDL source files.
  
