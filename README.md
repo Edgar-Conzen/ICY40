@@ -4,7 +4,7 @@
   <img src="/Doc/ICY40_board_fully_assembled.jpg" width="1000" />
 </p>
 
-The ICY40 board is equally suited for the absolute beginner and the ambitious enthusiast. It covers complexities in the range from
+The ICY40 board is equally suited for the absolute beginner and the ambitious digital logic enthusiast. It covers complexities in the range from
 simple combinational pushbutton-to-LED circuits to a full blown SoC (system on chip) with for example the EC16 soft processor core.
 
 The board is deliberately designed as a self-contained teaching tool, with its ample buttons, switches, LEDs, a tricolor LED,
