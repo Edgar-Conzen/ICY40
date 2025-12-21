@@ -1,9 +1,13 @@
 # ICY40 - Lattice ICE40UP5K FPGA learning board
+<img src="/Doc/ICY40_LOGO_small.jpg" alt="ICY40 Logo" width="300" style="display: block; margin: 0 auto;">   
+
+The ICY40 board is equally suited for absolute beginners and ambitious digital logic enthusiasts. It covers complexities ranging from
+simple combinational pushbutton-to-LED circuits to full blown SoCs (system on chip) with e.g. the [EC16 soft processor core](https://github.com/Edgar-Conzen/EC16).
+
 
 <p float="left">
   <img src="/Doc/ICY40_board_fully_assembled.jpg" width="1000" />
 </p>
-
 The ICY40 board is equally suited for absolute beginners and ambitious digital logic enthusiasts. It covers complexities ranging from
 simple combinational pushbutton-to-LED circuits to full blown SoCs (system on chip) with e.g. the [EC16 soft processor core](https://github.com/Edgar-Conzen/EC16).
 
