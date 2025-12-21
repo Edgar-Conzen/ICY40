@@ -17,10 +17,9 @@ SoCs (system on chip) with e.g. the free [EC16 soft processor core](https://gith
 </p>
 <br>
 The ICY40 is deliberately designed as a self-contained teaching tool, with its ample buttons, switches, LEDs, a tricolor LED, 
-
 COM-Port, a seven-segment display, a 128x64px OLED graphic display and a 320x240px LCD with 256k colors.
 
-Its sensitive components are protected by a case since the target audience is not (only) the soldering iron wielding hardware wizzard<br>
+Its sensitive components are protected by a case since the target audience is not (only) the soldering iron wielding hardware wizzard
 in his ESD-proof workplace but everyone with a computer and a desktop.
 <br><br>
 There are two external electrical interfaces: 
