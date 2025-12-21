@@ -7,7 +7,7 @@ It covers complexities ranging from simple combinational pushbutton-to-LED examp
 
 SoCs (system on chip) with e.g. the free [EC16 soft processor core](https://github.com/Edgar-Conzen/EC16) 
 
-<br><br>
+<br>
 <p align="center">
   <img src="/Doc/ICY40_Case_Closed_front.jpg" width="600" />
 </p>
@@ -26,9 +26,15 @@ There are two external electrical interfaces:
 - a USB-C port that provides power, the programming interface and a communication channel (COM-Port)
 - an 8-bit [PMOD connector](https://en.wikipedia.org/wiki/Pmod_Interface) (Type 1A, extended GPIO) if optional hardware extensions are desired
 
+<p align="center">
+  <img src="/Doc/ICY40_Connectors.jpg" width="600" />
+</p>
+
+
 For detailed description see the [ICY40 Wiki page](https://github.com/Edgar-Conzen/ICY40/wiki)
+<br><br>
 
 <p align="center">
-  <img src="/Doc/ICY40_FPGA.jpg" width="700" />
+  <img src="/Doc/ICY40_FPGA.jpg" width="600" />
 </p>
 
