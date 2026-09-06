@@ -1,3 +1,4 @@
+![Besucher](https://visitor-badge.laobi.icu/badge?page_id=Edgar-Conzen.ICY40)
 <p align="center">
   <img src="/Doc/ICY40_LOGO_small.jpg" alt="ICY40 Logo" width="250">
 </p>   
